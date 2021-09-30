@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alligatorra.github.io/csb-czbz2/static/css/main.5e8bb113.chunk.css",
+    "main.js": "https://alligatorra.github.io/csb-czbz2/static/js/main.1776c926.chunk.js",
+    "main.js.map": "https://alligatorra.github.io/csb-czbz2/static/js/main.1776c926.chunk.js.map",
+    "runtime-main.js": "https://alligatorra.github.io/csb-czbz2/static/js/runtime-main.58d36703.js",
+    "runtime-main.js.map": "https://alligatorra.github.io/csb-czbz2/static/js/runtime-main.58d36703.js.map",
+    "static/js/2.abd43898.chunk.js": "https://alligatorra.github.io/csb-czbz2/static/js/2.abd43898.chunk.js",
+    "static/js/2.abd43898.chunk.js.map": "https://alligatorra.github.io/csb-czbz2/static/js/2.abd43898.chunk.js.map",
+    "index.html": "https://alligatorra.github.io/csb-czbz2/index.html",
+    "static/css/main.5e8bb113.chunk.css.map": "https://alligatorra.github.io/csb-czbz2/static/css/main.5e8bb113.chunk.css.map",
+    "static/js/2.abd43898.chunk.js.LICENSE.txt": "https://alligatorra.github.io/csb-czbz2/static/js/2.abd43898.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d36703.js",
+    "static/js/2.abd43898.chunk.js",
+    "static/css/main.5e8bb113.chunk.css",
+    "static/js/main.1776c926.chunk.js"
+  ]
+}
